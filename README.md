@@ -6,8 +6,7 @@ This is the accompanying code of the paper:
 
 > Elvire Roblin, Paul-Henry Cournède, Stefan Michiels  
 > *Evaluation of machine-learning models to measure individualized treatment effects from randomized clinical trial data with time-to-event outcomes*  
-> Cancer Informatics, 2026. DOI: 10.1177/11769351261491717  
-> arXiv: https://arxiv.org/abs/XXXX.XXXXX
+> Cancer Informatics, 2026. DOI: 10.1177/11769351261491717
 
 ---
 
