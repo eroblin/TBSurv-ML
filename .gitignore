@@ -1,0 +1,22 @@
+# Data and results 
+data/
+results/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Python
+__pycache__/
+*.py[cod]
+*.db
+*.egg-info/
+.env
+.venv
+
+# Optuna databases
+*.db
+
+# OS
+.DS_Store
